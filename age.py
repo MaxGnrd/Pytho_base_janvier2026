@@ -2,9 +2,9 @@ import datetime
 now=datetime.date.yoday(2026).year
 
 nom1=input("quel est ton nom?")
-annee_1=int(input("En quelle année est-tu né(e)?")
+annee_1=input("En quelle année est-tu né(e)?")
 nom2=input("comment s'apelle ton voisin?")
-anee_2=int(input("En quelle année est-il né?")
+anee_2=input("En quelle année est-il né?")
 
 annee_1=int(annee_1)
 annee_2=int(annee_2)

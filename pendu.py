@@ -1,0 +1,11 @@
+mot="anniversaire"
+list_propositions=[]
+for i in range (5):
+    for lettre in mot:
+      if lettre in list_proposition :
+      else :
+      print(" _",end="")
+    print("")
+    proposition=input("Faites une proposition")
+    list_proposition,append(proposition)
+

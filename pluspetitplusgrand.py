@@ -9,6 +9,7 @@ while recommencer :
     proposition=input("faites une proposition...")
     proposition=int(proposition)
 
+    #proposition = int(input("Donne un nombre : "))while proposition != 42:  print("Ce n'est pas 42")    proposition = int(input("Réessaie : "))print("Bravo, tu as trouvé 42 !")
     if proposition==nombre_inconnu:
         print("bravo vous avez gagné !")
         print("Vive les crêpes à la queue de taupe .")
